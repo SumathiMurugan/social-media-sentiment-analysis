@@ -51,11 +51,3 @@ This project demonstrates how to collect, preprocess, analyze, and visualize sen
 ## Contributors
 - [Sumathi](https://github.com/SumathiMurugan)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, open issues, or provide suggestions to enhance this project!
-
-**Note:** Be sure to replace placeholders (like `X.X` in Tableau version) with the actual values. Also, update links, usernames, and other relevant information accordingly.
-
-Remember to provide appropriate attribution to any libraries or resources you use in your project.
